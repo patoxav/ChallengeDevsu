@@ -1,0 +1,7 @@
+## Conclusiones ##
+1.- Se pudo ejecutar el ejercicio con el patron de screen play
+2.- Se utilizó chrome como navegador
+3.- Se debio agregar comandos para que se actualice el chrome driver
+4.- Se debió actualizar chrome
+5.- Se debió utilizar xpath como localizadores de los objetos html para identificar alguno ya que no se pudieron ver id's
+6.- Se puede ver el reporte en la ruta [ruta del proyecto]/target/site/serenity/index.html

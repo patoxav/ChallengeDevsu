@@ -1,0 +1,8 @@
+Todos los escenario corrieron de manera exitosa,
+nos dieron respuesta 200 y el print response fue
+el esperado.
+
+Si se hubiesen requerido la creación de más mascotas
+la mejor opción hubiese sido un Scenario Outline
+Sin embargo, al ser una sola, se optó por un Scenario
+simple 

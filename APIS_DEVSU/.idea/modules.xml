@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/APIS_DEVSU.iml" filepath="$PROJECT_DIR$/.idea/APIS_DEVSU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicioChallengeApi-main/karate-template.iml" filepath="$PROJECT_DIR$/ejercicioChallengeApi-main/karate-template.iml" />
+    </modules>
+  </component>
+</project>
