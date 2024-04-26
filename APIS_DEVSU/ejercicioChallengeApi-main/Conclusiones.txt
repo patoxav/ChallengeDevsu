@@ -1,8 +1,9 @@
-Todos los escenario corrieron de manera exitosa,
-nos dieron respuesta 200 y el print response fue
-el esperado.
+## Conclusiones ##
+1.-La página usada fue https://petstore.swagger.io/, sin embargo, la versión 1 respondió con 404, al hacer el ejercicio dentro de la
+página la URL actual indicada es https://petstore.swagger.io/v2/ así que se actualizó a dicha URL
 
-Si se hubiesen requerido la creación de más mascotas
-la mejor opción hubiese sido un Scenario Outline
-Sin embargo, al ser una sola, se optó por un Scenario
-simple 
+2.-Cada uno de los escenarios tiene un tag que los diferencia en caso de querer correrlos de manera independiente.
+
+3.-Se utilizo dos json uno para crear mascota y otro para actualizar
+
+
